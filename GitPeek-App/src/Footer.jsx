@@ -6,7 +6,7 @@ function Footer(){
                 <ul className="text-[var(--background)] dark:text-[var(--foreground)] flex items-center gap-2.5">
                     <li><a href="https://github.com/typical-developer" target="_blank" rel="noopener" className="cursor-pointer"><i className="bx bxl-github text-3xl lg:text-xl"></i></a></li>
                     <li><a href="https://x.com/typicaldevelopr" target="_blank" rel="noopener" className="cursor-pointer"><i className="bx bxl-twitter text-3xl lg:text-xl"></i></a></li>
-                    <li><a href="https://discord.gg/AJUzJ5dq" target="_blank" rel="noopener" className="cursor-pointer"><i className="bx bxl-discord text-3xl lg:text-xl"></i></a></li>
+                    <li><a href="https://discord.gg/9ZgcVfhvfD" target="_blank" rel="noopener" className="cursor-pointer"><i className="bx bxl-discord text-3xl lg:text-xl"></i></a></li>
                     <li><a href="mailto:nzenwatachristopher186@gmail.com" rel="noopener" className="cursor-pointer"><i className="bx bx-envelope text-3xl lg:text-xl"></i></a></li>
                 </ul>
             </footer>
